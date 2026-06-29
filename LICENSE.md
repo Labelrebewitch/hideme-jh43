@@ -1,4 +1,4 @@
-
+Hide.me smart Extension: OpenVPN-support & IKEv2-support offers the most advanced Hide.me extension, with OpenVPN-support and IKEv2-support. Ideal for users who value privacy and
 
 
 
